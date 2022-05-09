@@ -1,13 +1,13 @@
 # Petshop
 
-Projeto criado em um dos cursos de React da Alura para aprender sobre navegação em uma SPA. <br />
+Project created in one of Alura's React courses to learn about navigation in a SPA. <br />
 
-Nele aprendi: <br />
+In it I learned: <br />
 
-- A como estabelecer rotas para outras páginas;
-- A deixar a aplicação dinâmica com requisições para a API;
-- A montar filtros para procurar por posts de maneira mais eficiente.
-
+- How to establish routes to other pages;
+- How to leave the application dynamic with requests to the API;
+- How to set up filters to search for posts more efficiently.
+  
 # Overview
 
 ![](./public/gifs/default.gif)
@@ -21,7 +21,9 @@ $ git clone https://github.com/velleeda/Petshop
 
 # Go to the directory
 $ cd Petshop
-
+```
+  
+```
 # Install Dependencies
 $ npm install
 
